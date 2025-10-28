@@ -1,4 +1,4 @@
-# Midterm Project: Student Record Manager
+# Midterm Project: Student Transaction Processing System(TPS)
 
 ## Description / Overview
 This midterm project is a simple Student Record Manager CLI application that demonstrates the skills learned in the course. It lets you add, list, search, update, and delete student records stored in a local JSON file. The README is written to be beginner friendly for people using Git and GitHub from the terminal for the first time.
@@ -12,10 +12,10 @@ This midterm project is a simple Student Record Manager CLI application that dem
 ## Features / Functionality
 - Add new student records (name, id, email).
 - List all student records.
-- Search records by ID or name.
 - Update and delete records.
 - Persistent storage using a local JSON file.
 - Simple, user-friendly CLI commands.
+- Added a dashboard for easy tracking.
 
 ## Installation Instructions (for beginners)
 Follow these steps in your terminal. These commands assume you have Git installed. If you don't, see the Install Git step below.
